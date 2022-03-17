@@ -1,0 +1,16 @@
+Membres du groupe
+Nom:Ducatel Prenom:Alma
+Nom:Lorin Prenom:Rose Kenflore
+Nom:Oseme Prenom:Wildarline
+
+Nom de la base:chcl
+
+Pseudo:Amal Clouney
+password:1234
+
+Fichier à ajouter en reference.
+web\WEB-INF\lib\commons-collections4-4.1.jar
+web\WEB-INF\lib\poi-3.17.jar
+web\WEB-INF\lib\poi-ooxml-schemas-3.17.jar
+web\WEB-INF\lib\poi-3.17.jar
+web\WEB-INF\lib\xmlbeans-2.6.0.jar
